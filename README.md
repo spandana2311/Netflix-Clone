@@ -1,2 +1,1 @@
-# Netflix-Clone
-Netflix Clone using HTML and CSS
+A webpage similar to that of netflix designed uding Html and CSS 
